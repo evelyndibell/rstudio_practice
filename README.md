@@ -1,4 +1,4 @@
 # Index to My Work 
 
-[excersise1](Practice1.md)
-[complex problem](Problem1.md.png)
+1. [excersise1](Practice1.md)
+2. [complex problem](Problem1.md.png)
