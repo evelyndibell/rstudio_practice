@@ -5,7 +5,8 @@ Hi! My name is Evelyn Dibell and I'm from ALexandria, VA (NOVA) which is about 2
 
 Some other fun facts about myself are that I love to travel, learn about different cultures, and dance. I'm also an only child (yes it's very lonely) and have a very cute dog named Bali (pictured below). 
 
-
+![](introimage.JPG)
+![](cutestpuppyever.jpeg)
 
 These are my exercises: 
 1. [excersise1](Practice1.md)
