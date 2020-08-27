@@ -11,4 +11,4 @@ Some other fun facts about myself are that I love to travel, learn about differe
 These are my exercises: 
 1. [excersise1](Practice1.md)
 2. [complex problem](complexexercise.md)
-3. [challenge problem]
+3. [challenge problem](challengeexplanation.md)
